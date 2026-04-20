@@ -5,7 +5,7 @@ from analysis import analyze_resume # Method in analysis.py file
 
 st.set_page_config(page_title="Resume Analyzer", page_icon='🛠️', layout="centered")
 
-st.title("Resume Analyzer Using AI 🤖🧠 ")
+st.title("Resume Analyzer Using AI 🤖")
 
 st.header(':blue[AI Powered resume Analyzer with given Job Description📋🤖]')
 
